@@ -1,0 +1,18 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Luke Forister",
+	"icon": "https://micro.blog/lukeforis/avatar.jpg",
+	"home_page_url": "https://lukeforis.micro.blog/",
+	"feed_url": "https://lukeforis.micro.blog/feed.json",
+	"items": [
+		
+			{
+				"id": "http://lukeforis.micro.blog/2020/11/03/hello-world.html",
+				"title": "Hello world",
+				"content_html": "<p>Hello world! Just testing it out.</p>\n\n<h1>This is a title.</h1>\n\n<h2>This is a subtitle.</h2>\n\n<p><em>Italic</em>, <strong>bold</strong>, maybe a <strong><em>bit of both</em></strong>?</p>\n",
+				"content_text": "<p>Hello world! Just testing it out.</p>\n\n<h1>This is a title.</h1>\n\n<h2>This is a subtitle.</h2>\n\n<p><em>Italic</em>, <strong>bold</strong>, maybe a <strong><em>bit of both</em></strong>?</p>\n",
+				"date_published": "2020-11-03T11:33:52-05:00",
+				"url": "https://lukeforis.micro.blog/2020/11/03/hello-world.html"
+			}
+	]
+}
