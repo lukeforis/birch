@@ -1,18 +1,43 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Luke Forister",
-	"icon": "https://micro.blog/lukeforis/avatar.jpg",
+	"icon": "https://micro.blog/lu/avatar.jpg",
 	"home_page_url": "https://lukeforis.micro.blog/",
 	"feed_url": "https://lukeforis.micro.blog/feed.json",
 	"items": [
 		
 			{
-				"id": "http://lukeforis.micro.blog/2020/11/03/hello-world.html",
-				"title": "Hello world",
-				"content_html": "<p>Hello world! Just testing it out.</p>\n\n<h1>This is a title.</h1>\n\n<h2>This is a subtitle.</h2>\n\n<p><em>Italic</em>, <strong>bold</strong>, maybe a <strong><em>bit of both</em></strong>?</p>\n",
-				"content_text": "<p>Hello world! Just testing it out.</p>\n\n<h1>This is a title.</h1>\n\n<h2>This is a subtitle.</h2>\n\n<p><em>Italic</em>, <strong>bold</strong>, maybe a <strong><em>bit of both</em></strong>?</p>\n",
-				"date_published": "2020-11-03T11:33:52-05:00",
-				"url": "https://lukeforis.micro.blog/2020/11/03/hello-world.html"
+				"id": "http://lukeforis.micro.blog/2020/12/23/tenminute-knits-santa.html",
+				
+				"content_html": "<p>Ten-minute knits: Santa hats for bunnies.</p>\n\n<p><img src=\"uploads/2020/78518dbd6f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Ten-minute knits: Santa hats for bunnies.\n\n<img src=\"uploads/2020/78518dbd6f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-12-23T17:15:22-05:00",
+				"url": "https://lukeforis.micro.blog/2020/12/23/tenminute-knits-santa.html"
+			},
+			{
+				"id": "http://lukeforis.micro.blog/2020/12/21/i-graduated-this.html",
+				
+				"content_html": "<p>I graduated this week. Had a tiny celebration with fewer than 10 people, social distanced, masks. I got a <em>slide</em> for my commencement ceremony, which was a glorified zoom call with hundreds of students. I&rsquo;m still <em>super excited</em> to be done!</p>\n",
+				"content_text": "I graduated this week. Had a tiny celebration with fewer than 10 people, social distanced, masks. I got a *slide* for my commencement ceremony, which was a glorified zoom call with hundreds of students. I'm still *super excited* to be done!\n",
+				"date_published": "2020-12-21T13:56:49-05:00",
+				"url": "https://lukeforis.micro.blog/2020/12/21/i-graduated-this.html"
+			},
+			{
+				"id": "http://lukeforis.micro.blog/2020/12/20/anyone-in-central.html",
+				
+				"content_html": "<p>Anyone in Central Virginia, try <strong>Food For Thought</strong> for some patriotic fine dining. It&rsquo;s super delicious.</p>\n",
+				"content_text": "Anyone in Central Virginia, try **Food For Thought** for some patriotic fine dining. It's super delicious.\n",
+				"date_published": "2020-12-20T15:26:43-05:00",
+				"url": "https://lukeforis.micro.blog/2020/12/20/anyone-in-central.html"
+			},
+			{
+				"id": "http://lukeforis.micro.blog/2020/12/17/getting-splendid-with.html",
+				"title": "Paper 🗞",
+				"content_html": "\n\n<h1 id=\"getting-splendid-with-the-wrapping-paper\">Getting splendid with the wrapping paper.</h1>\n\n<p>Figured out, <em>finally</em>, how to wrap without using any tape. I&rsquo;ve never felt more like a fake hipster. Little watercolors to add some spice to the labels. Each one gives a hint to what&rsquo;s inside.</p>\n\n<p><img src=\"uploads/2020/7ba14fcf50.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "# Getting splendid with the wrapping paper.\n\nFigured out, _finally_, how to wrap without using any tape. I've never felt more like a fake hipster. Little watercolors to add some spice to the labels. Each one gives a hint to what's inside.\n\n<img src=\"uploads/2020/7ba14fcf50.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2020-12-17T13:57:00-05:00",
+				"url": "https://lukeforis.micro.blog/2020/12/17/getting-splendid-with.html",
+				"tags": ["Secret Life "]
 			}
 	]
 }
