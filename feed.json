@@ -1,11 +1,27 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Luke Forister",
-	"icon": "https://micro.blog/lu/avatar.jpg",
+	"icon": "https://micro.blog/lukeforis/avatar.jpg",
 	"home_page_url": "https://lukeforis.micro.blog/",
 	"feed_url": "https://lukeforis.micro.blog/feed.json",
 	"items": [
 		
+			{
+				"id": "http://lukeforis.micro.blog/2021/01/02/princess-bride-why.html",
+				
+				"content_html": "<p>Princess Bride: &ldquo;Why do you wear a mask?&rdquo; &ldquo;They&rsquo;re terribly comfortable. I think everyone will be wearing them in the future.&rdquo; 😷</p>\n",
+				"content_text": "Princess Bride: \"Why do you wear a mask?\" \"They're terribly comfortable. I think everyone will be wearing them in the future.\" 😷\n",
+				"date_published": "2021-01-02T14:49:18-05:00",
+				"url": "https://lukeforis.micro.blog/2021/01/02/princess-bride-why.html"
+			},
+			{
+				"id": "http://lukeforis.micro.blog/2020/12/29/im-building-an.html",
+				
+				"content_html": "<p>I&rsquo;m building an &ldquo;adventure kit&rdquo;. I need ultra-useful things that can fit into a backpack. What kind of things are your go-to essentials?</p>\n",
+				"content_text": "I'm building an \"adventure kit\". I need ultra-useful things that can fit into a backpack. What kind of things are your go-to essentials?\n",
+				"date_published": "2020-12-29T11:39:51-05:00",
+				"url": "https://lukeforis.micro.blog/2020/12/29/im-building-an.html"
+			},
 			{
 				"id": "http://lukeforis.micro.blog/2020/12/23/tenminute-knits-santa.html",
 				
